@@ -1,1 +1,0 @@
-title = "sens zycia"
