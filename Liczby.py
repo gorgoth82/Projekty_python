@@ -1,0 +1,12 @@
+__author__ = 'Norbert'
+liczba = int('8')
+lOsemkowa = oct(liczba)
+lSzestnastkowa = hex(liczba)
+lDwojkowa = bin(liczba)
+lzespolona = complex(10, 20)
+print(liczba)
+print(lOsemkowa)
+print(lSzestnastkowa)
+print(lDwojkowa)
+print(lzespolona)
+print("test")
